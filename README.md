@@ -10,9 +10,7 @@ This project presents a comprehensive analysis of **Nike's sales performance in 
 
 - **Source:** [Kaggle](https://www.kaggle.com/)
 - **File Name:** `Nike Sales Performance Dashboard Analysis.xlsx`
-- **Contents:** Includes detailed records of Nike product sales by category, region, revenue, profit, discounts, and more.
-
----
+- **Contents:** Includes detailed records of Nike product sales by category, region, revenue, and more.
 
 ## 🔧 Data Preparation
 
@@ -21,29 +19,6 @@ The original dataset underwent the following preprocessing steps:
 - Removed duplicate and irrelevant entries.
 - Standardized column formats and cleaned missing values.
 -  Created Dashboard of Sales Analytics Dashboard – FY 2024
-
----
-
-## 📈 Dashboard Features
-
-The final dashboard provides visual insights into:
-
-- 📍 Regional Sales Distribution  
-- 📦 Product Category Performance  
-- 💰 Revenue vs. Profit Analysis  
-- 📅 Time-Based Trends (Monthly)
----
-
-## 🛠️ Tools Used
-
-- Microsoft Excel (Data Cleaning & Preprocessing)
----
-
-## 📅 Year of Analysis
-
-- **2024**
-
----
 
 ## 📄 License
 
