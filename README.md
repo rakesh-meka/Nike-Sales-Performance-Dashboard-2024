@@ -4,7 +4,7 @@
 
 This project presents a comprehensive analysis of **Nike's sales performance in 2024** through a clean, interactive dashboard. The data was sourced from **Kaggle** and has been cleaned and prepared for meaningful visual insights into Nike's product sales, regional performance, and customer trends.
 
-[Dashboard.png](https://github.com/rakesh-meka/Nike-Sales-Performance-Dashboard-2024/blob/2191da9892992633ec278ed253fdd195d63168be/Dashboard.png)
+![Dashboard Preview](https://github.com/rakesh-meka/Nike-Sales-Performance-Dashboard-2024/blob/2191da9892992633ec278ed253fdd195d63168be/Dashboard.png?raw=true)
 
 ## 📁 Dataset
 
